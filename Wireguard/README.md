@@ -17,3 +17,9 @@ I found this to be a simpler method of configuring a fresh wireguard install and
 # **Notes**  
 * I found that by using a DDNS to link my dynamic ip from my ISP makes the maintenance of switching the endpoint IP every few weeks much simpler. I use [DuckDNS](https://www.duckdns.org/).
 * I have also used a different port number as I have heard it's a good security practice to follow.
+* For both methods, be sure to add these lines of code to your LXC.conf file (usually at /etc/pve/lxc/(LXC #).conf). This adds the /dev/net/tun device.
+>  lxc.cgroup2.devices.allow: c 10:200 rwm  
+ lxc.mount.entry: /dev/net dev/net none bind,create=dir
+* Also use the line to enable your LXC to access the /dev/net/tun from the host.
+>  chown 100000:100000 /dev/net/tun
+* Proxmox has [documentation](https://pve.proxmox.com/wiki/OpenVPN_in_LXC) on this.
