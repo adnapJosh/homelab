@@ -6,7 +6,7 @@ I also am using this to learn github as a platform.
 # Current Setup
 * Proxmox machine using a Ryzen 5 2600x, 16GB DDR4 RAM, 512GB SATA SSD, 1TB SATA HDD
   - Current Services:
-    - [PiHole DNS](PiHole_DNS)
+    - [PiHole DNS](PiHole)
     - DuckDNS
     - Portainer
     - [GNS3](GNS3)
