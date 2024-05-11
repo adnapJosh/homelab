@@ -9,8 +9,8 @@ I also am using this to learn github as a platform.
     - PiHole DNS
     - DuckDNS
     - Portainer
-    - GNS3
-    - [Wireguard](docs/Wireguard)
+    - [GNS3](GNS3)
+    - [Wireguard](Wireguard)
 * TP-Link tl-sg105e 1GB 5 port managed switch
 * TP-Link POE injector
 * TP-Link EAP223
