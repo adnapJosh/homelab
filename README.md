@@ -11,6 +11,7 @@ I also am using this to learn github as a platform.
     - Portainer
     - [GNS3](GNS3)
     - [Wireguard](Wireguard)
+    - [Dashy](Dashy)
 * TP-Link tl-sg105e 1GB 5 port managed switch
 * TP-Link POE injector
 * TP-Link EAP223
@@ -24,4 +25,5 @@ I also am using this to learn github as a platform.
 - [ ] [Ollama](https://ollama.com/library/llama3) seems interesting, but I'm unsure if I could reasonably run it 24/7 with my current resources  
 - [ ] Get a larger (> 8 port) POE+ switch
   - [ ] Potentially move away from decentralized security and utilize a self-hosted NVR
-- [ ] Create a NAS machine(s) 
+- [ ] Create a NAS machine(s)
+- [ ] Locally create SSL certificates for my services
