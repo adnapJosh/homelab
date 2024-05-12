@@ -17,12 +17,11 @@ I also am using this to learn github as a platform.
 * Navepoint 12U rack
 
 # Future Plans
-* Organize my current homelab setup better
-* ~~Set up a dashboard ([Dashy?](https://dashy.to/)) for quick access all my services~~ (5/12/24)  
-* Learn more about [Ansible](https://www.ansible.com/) and [Terraform](https://www.terraform.io/) and see if deploying them would be useful  
-  - Learn YAML  
-* [Ollama](https://ollama.com/library/llama3) seems interesting, but I'm unsure if I could reasonably run it 24/7 with my current resources  
-* Get a larger (> 8 port) POE+ switch
-  - Potentially move away from decentralized security and utilize a self-hosted NVR
-* Create a NAS machine(s)
-* 
+- [ ] Organize my current homelab setup better
+- [x] ~~Set up a dashboard ([Dashy?](https://dashy.to/)) for quick access all my services~~ (5/12/24)  
+- [ ] Learn more about [Ansible](https://www.ansible.com/) and [Terraform](https://www.terraform.io/) and see if deploying them would be useful  
+  - [ ] Learn YAML  
+- [ ] [Ollama](https://ollama.com/library/llama3) seems interesting, but I'm unsure if I could reasonably run it 24/7 with my current resources  
+- [ ] Get a larger (> 8 port) POE+ switch
+  - [ ] Potentially move away from decentralized security and utilize a self-hosted NVR
+- [ ] Create a NAS machine(s) 
