@@ -5,6 +5,7 @@ I used this [tutorial](https://www.youtube.com/watch?v=sZcOlW-DwrU) from [Craft 
 I was unable to use a RAID/ZFS configuration due to my setup limit at the time of my homelab setup. So I opted to use LVM storage.
 
 My current setup is an AMD Ryzen 5 2600X, 16GB DDR4 NON-ECC RAM, 512GB Sata SSD
+
 ![image](https://github.com/adnapJosh/homelab/assets/44041134/224e142f-ffef-4a3e-848c-6c6282570db2)  
 (I promise it runs longer, I just had to move the setup so the runtime is low)
 
